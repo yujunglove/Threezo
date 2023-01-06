@@ -34,16 +34,16 @@ public class Pig2 extends PigDTO {
 				System.out.println("발코니의 평수가 100% 입니다 !! 이제 다른 친구들에게도 자랑을 할 수 있겠네요 ");
 				new GameService2().gameStart2();
 			} else if (make1.equalsIgnoreCase("t")) {
-				System.out.println("마당의 청결함이 50 올라갑니다! 더 치워야겠는걸요?");
-				System.out.print("\n거의 다 왔어요!! z를 눌러주세요! ");
+				System.out.println("발코니의 청결함이 50 올라갑니다! 더 치워야겠는걸요?");
+				System.out.print("\n거의 다 왔어요!! "Z"를 눌러주세요! ");
 				continue;
 			} else if (make1.equalsIgnoreCase("s")) {
 				System.out.println("발코니의 평수가 20 올라갑니다! 얼마 안남았어요 첫째돼지와 더 넓혀주세요!");
-				System.out.print("\n다음은 t를 눌러주세요! ");
+				System.out.print("\n다음은 "T"를 눌러주세요! ");
 				continue;
 			} else if (make1.equalsIgnoreCase("f")) {
 				System.out.println("발코니의 평수가 0입니다! 어서 넗혀주세요!");
-				System.out.print("\n다음은 s를 눌러주세요! ");
+				System.out.print("\n다음은 "S"를 눌러주세요! ");
 				continue;
 			} else {
 				System.out.print("\n순서대로 다시 입력해주세요. 초기화면으로 돌아갑니다. ");
