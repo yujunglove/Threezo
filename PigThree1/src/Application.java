@@ -6,7 +6,7 @@ public class Application {
 
 		String pigName1 = "첫째돼지";
 		String pigName2 = "둘째돼지";
-		String pigName3 = "첫째돼지";
+		String pigName3 = "셋째돼지";
 
 		Scanner sc = new Scanner(System.in);
 
