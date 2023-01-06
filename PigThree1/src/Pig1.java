@@ -35,15 +35,15 @@ public class Pig1 extends PigDTO {
 					new GameService1().gameStart1();
 				} else if (make1.equalsIgnoreCase("t")) {
 					System.out.println("마당의 청결함이 50 올라갑니다! 더 치워야겠는걸요?");
-					System.out.print("\n거의 다 왔어요!! z를 눌러주세요! ");
+					System.out.print("\n거의 다 왔어요!! "Z"를 눌러주세요! ");
 					continue;
 				} else if (make1.equalsIgnoreCase("s")) {
 					System.out.println("마당의 청결함이 20 올라갑니다! 얼마 안남았어요 첫째돼지와 더 치워주세요!");
-					System.out.print("\n다음은 t를 눌러주세요! ");
+					System.out.print("\n다음은 "T"를 눌러주세요! ");
 					continue;
 				} else if (make1.equalsIgnoreCase("f")) {
 					System.out.println("마당의 청결함이 10 올라갑니다! 어서 치워주세요!");
-					System.out.print("\n다음은 s를 눌러주세요! ");
+					System.out.print("\n다음은 "S"를 눌러주세요! ");
 					continue;
 				} else {
 					System.out.print("\n순서대로 다시 입력해주세요. 초기화면으로 돌아갑니다. ");
