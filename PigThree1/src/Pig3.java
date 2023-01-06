@@ -35,15 +35,15 @@ public class Pig3 extends PigDTO {
 				new GameService3().gameStart3();
 			} else if (make1.equalsIgnoreCase("t")) {
 				System.out.println("정원에 작은 새싹이 자랐습니다. 아직은 부족해 보이네요~");
-				System.out.print("\n거의 다 왔어요!! z를 눌러주세요! ");
+				System.out.print("\n거의 다 왔어요!! "Z"를 눌러주세요! ");
 				continue;
 			} else if (make1.equalsIgnoreCase("s")) {
 				System.out.println("정원에 해바라기가 피었습니다~ 조금 더 근사해졌어요!");
-				System.out.print("\n다음은 t를 눌러주세요! ");
+				System.out.print("\n다음은 "T"를 눌러주세요! ");
 				continue;
 			} else if (make1.equalsIgnoreCase("f")) {
 				System.out.println("정원에 아무것도 없어요! 어서 씨앗을 심어주세요!!");
-				System.out.print("\n다음은 s를 눌러주세요! ");
+				System.out.print("\n다음은 "S"를 눌러주세요! ");
 				continue;
 			} else {
 				System.out.print("\n순서대로 다시 입력해주세요. 초기화면으로 돌아갑니다. ");
