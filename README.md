@@ -2,9 +2,6 @@
 학원 1주차 첫 프로젝트과제 콘솔 게임
 ![image](https://user-images.githubusercontent.com/120998460/219313471-fc771397-c776-4f21-adbf-60ad90d7899b.png)
 
-![아기돼지](https://user-images.githubusercontent.com/120998460/219312824-054b5990-6c6b-4318-b923-a0930cbb11dc.png)
-# 아기돼지 삼형제를 구해라
-
 ### 요구사항
 
 아기 돼지를 선택하여 집을 만들고 늑대로부터 아기 돼지를 지키자!
