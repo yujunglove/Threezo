@@ -34,9 +34,9 @@
 
 # 구현
 ![image](https://user-images.githubusercontent.com/120998460/230806999-1a8be74f-90e2-4361-9de7-06d8dd504b19.png)<br>
-
-#미션 후 미니게임으로 넘어가는 과정
+<br>
+#미션 후 미니게임으로 넘어가는 과정<br>
 ![image](https://user-images.githubusercontent.com/120998460/230807089-3ba1bb69-a746-4201-8a4d-acfcc4095cca.png)<br>
-
-#게임 중
+<br>
+#게임 중<br>
 ![image](https://user-images.githubusercontent.com/120998460/230807315-6582c65f-c8fc-4155-b864-1e7257729616.png)
