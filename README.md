@@ -1,11 +1,13 @@
 # 아기돼지 삼형제를 구해라! 미니게임 
 학원 1주차 첫 프로젝트과제 콘솔 게임
+<br> 사용한 기술<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a><br>
 ![image](https://user-images.githubusercontent.com/120998460/219313471-fc771397-c776-4f21-adbf-60ad90d7899b.png)
 
 ### 요구사항
 
 아기 돼지를 선택하여 집을 만들고 늑대로부터 아기 돼지를 지키자!
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+
 1. PIG DTO
     - 돼지마다 공통 된 hp, build를 제공 한다.
     - 각각 다른 집과 꾸미기가 연상되도록 추상화하여 home,deco.
