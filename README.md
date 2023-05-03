@@ -3,9 +3,9 @@
 # 사용 기술 및 라이브러리
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a><br>
 ![image](https://user-images.githubusercontent.com/120998460/219313471-fc771397-c776-4f21-adbf-60ad90d7899b.png)
-<hr>
-# 요구사항
+<br>
 
+# 요구사항
 <li>돼지마다 공통 된 hp, build를 제공</li>
 <li>플레이어는 시작 시 아기 돼지를 선택</li>
 <li>아기 돼지가 원하는 집의 재료모으기</li>
