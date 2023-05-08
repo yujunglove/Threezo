@@ -1,8 +1,8 @@
 # 아기돼지 삼형제를 구해라! 미니게임 
 학원 1주차 첫 과제 콘솔 게임
-# 사용 기술 및 라이브러리
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a><br>
-<hr></hr>
+
+# 🌠STACK
+<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA&logoColor=white"/> 
 
 ![image](https://user-images.githubusercontent.com/120998460/219313471-fc771397-c776-4f21-adbf-60ad90d7899b.png)
 <br>
