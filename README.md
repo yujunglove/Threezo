@@ -1,5 +1,5 @@
 # 아기돼지 삼형제를 구해라! 미니게임 
-학원 1주차 첫 과제 콘솔 게임
+학원 1주차 첫 과제 콘솔 토이 프로젝트
 
 # 🌠STACK
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA&logoColor=white"/> 
